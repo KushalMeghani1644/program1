@@ -7,7 +7,7 @@ mod math_game {
     pub fn game() {
         let mut score = 0;
         let mut attempts = 0;
-        let mut rng = rand::rng(); // Correct initialization
+        let mut rng = rand::rng();
 
         println!("Welcome to the Math Game!");
 
