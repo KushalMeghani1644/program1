@@ -2,15 +2,6 @@
 
 A beginner-friendly Rust project featuring:
 
-- 🎮 A **Math Game** with random arithmetic challenges and score tracking
-- 🧠 A **Simple Calculator** for basic arithmetic operations
-- **The Module System** so both math game and simple calculator can be ran using the same code
----
-
-# 🧮 Rust Math Tools
-
-A beginner-friendly Rust project featuring:
-
 - 🎮 A **Math Game** with random arithmetic challenges and score tracking  
 - 🧠 A **Simple Calculator** for basic arithmetic operations  
 - 📦 Demonstrates **Rust's Module System**, enabling both features to run from a single program
